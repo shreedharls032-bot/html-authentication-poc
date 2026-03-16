@@ -43,3 +43,6 @@ Screenshots:
 (Add images here)
 ##login page
 ![Login Page]("C:\Users\shree\OneDrive\Pictures\Screenshots\login.png.png")
+##register page
+![register page]("<img width="1920" height="1080" alt="register png" src="https://github.com/user-attachments/assets/af87b738-b4ce-4501-ba16-e52f01153dd2" />
+")
