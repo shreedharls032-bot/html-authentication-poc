@@ -23,3 +23,21 @@ Dashboard → Logout → Login
 - No JavaScript used
 - Redirections handled using anchor tags only
 - Pure HTML structure
+# Authentication System Styling
+
+This project is a styled authentication system created using HTML, Bootstrap 5 and custom CSS.
+
+Pages:
+- Login
+- Register
+- Forgot Password
+- Reset Password
+- Dashboard
+
+Technologies Used:
+- HTML
+- Bootstrap 5
+- CSS
+
+Screenshots:
+(Add images here)
